@@ -1,2 +1,1 @@
-# codealpha_tasks
-CodeAlpha Frontend Development Internship Tasks
+# Responsive web design
